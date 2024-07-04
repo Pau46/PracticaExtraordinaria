@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2be7425-71f4-487a-9bc9-3e332f3c300e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/Funciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/Listas/ElementoLE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/Listas/ListaEnlazada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/ValoresEstaticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/Viajero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/grafo/Arco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/grafo/Camino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/grafo/Grafo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/grafo/Vertice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/es/uah/matcomp/mped/proyectofinal/trabajomapaviajeros/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="c2be7425-71f4-487a-9bc9-3e332f3c300e" name="Changes" comment="TRABAJO VIAJEROS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,11 +81,24 @@
       <workItem from="1719828575871" duration="128000" />
       <workItem from="1719852014759" duration="655000" />
       <workItem from="1720082516363" duration="3888000" />
-      <workItem from="1720086683831" duration="434000" />
+      <workItem from="1720086683831" duration="468000" />
     </task>
+    <task id="LOCAL-00001" summary="TRABAJO VIAJEROS">
+      <option name="closed" value="true" />
+      <created>1720100718194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720100718194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TRABAJO VIAJEROS" />
+    <option name="LAST_COMMIT_MESSAGE" value="TRABAJO VIAJEROS" />
   </component>
 </project>
